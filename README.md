@@ -2,4 +2,4 @@
 
 Vue3でフローティングパネルを実装するデモです。
 
-![image](https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihaubt15JG2JVtqvtVnm5_lYcqaZxIjyGUIyhTKHRAA0kDRjnSb1YatOC3SVerAHHZYCbMzZRg6kR-crGoMypp31JLzuD57d_Q=w3024-h1890-rw-v1:image=https://lh3.googleusercontent.com/u/1/drive-viewer/AKGpihaubt15JG2JVtqvtVnm5_lYcqaZxIjyGUIyhTKHRAA0kDRjnSb1YatOC3SVerAHHZYCbMzZRg6kR-crGoMypp31JLzuD57d_Q=w3024-h1890-rw-v1)
+![floating-panel-blog](https://github.com/user-attachments/assets/517ffa5c-16cc-4ada-9cb1-4dc26ca7d5a4)
